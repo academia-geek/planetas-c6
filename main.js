@@ -90,3 +90,15 @@ if( 1 === 1){
   //  console.log(mifuncion())
 }
 
+function calcularSuma(n1, n2, n3){
+    
+}
+
+let iterador = (valor) =>  {
+    console.log("Elemento", valor)
+}
+
+console.log("ITERACION PLANETAS")
+planetas.forEach(iterador)
+console.log("ITERACION NOMBRE PLANETAS")
+nombre_planetas.forEach(iterador)
